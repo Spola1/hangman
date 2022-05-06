@@ -27,5 +27,5 @@ bundle install
 ```
 Запустите программу:
 ```
-ruby main.rb
+bundle exec ruby main.rb
 ```
