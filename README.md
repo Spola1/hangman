@@ -17,7 +17,7 @@ Ruby 3.0.2
 
 # Используемые библиотеки
 
-Библиотека [colorize](https://github.com/fazibear/colorizel) 
+Библиотека [colorize](https://github.com/fazibear/colorize) 
 
 # Запуск программы
 
